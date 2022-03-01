@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CalculadoraPropina</string>
+    <string name="total_amount">Total Amount of Tip</string>
+    <string name="button15">15%</string>
+    <string name="button20">20%</string>
+    <string name="button35">35%</string>
+    <string name="tiptotal">Tip total percentage</string>
+    <string name="round">Redondear</string>
+</resources>
